@@ -1,0 +1,12 @@
+/* Center connections text, bio and big display name text */
+.defaultColor__30336.eyebrow_b3f8ba {
+  text-align: center;
+}
+
+.defaultColor__30336.lineClamp2Plus_ccc883.text-sm-normal__95a78 {
+  text-align: center;
+}
+
+.defaultColor__30336.text-lg-semibold__9539a {
+  text-align: center;
+}
