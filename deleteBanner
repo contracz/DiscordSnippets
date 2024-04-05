@@ -1,0 +1,5 @@
+/* Make banner invisible */
+
+.banner__6d414.popoutBannerPremium__84487.bannerPremium__69560.roundedBanner__16aa6 {
+  display: none;
+}
