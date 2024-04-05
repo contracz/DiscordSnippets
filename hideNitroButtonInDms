@@ -1,0 +1,7 @@
+/* Hide nitro button at home */
+
+[class^="channel"] > div > [href="/store"], 
+[class^="imageUploaderHint"]
+{
+    display: none !important;
+}
