@@ -5,13 +5,9 @@
 }
 
 .form_d8a4a1 { 
- --background-primary: transparent;
- --background-secondary: transparent;
- --background-tertiary: transparent; 
+ display: none;
 }
 
 .channelAttachmentArea__5e46a.scrollbarGhost__299c1.scrollbar_b61b2b {
- --background-primary: transparent;
- --background-secondary: transparent;
- --background-tertiary: transparent; 
+ display: none;
 }
