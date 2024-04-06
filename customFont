@@ -1,5 +1,7 @@
 /* Custom font */
 
+/* You can set the 'Comic Sans MS' to any pre installed font from windows! */
+
 :root {
   --font: 'Comic Sans MS';
 }
