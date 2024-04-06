@@ -1,0 +1,5 @@
+/* Hide New Member Badge */
+
+.newMemberBadge_e6a326 {
+  display: none;
+}
