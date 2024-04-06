@@ -6,11 +6,10 @@ Little/Big Discord custom css snippets for custom discord clients that support c
 - Add the snippet to your custom CSS Code
 - Look at discord
 
-# Supportet clients 💫
+# Supported clients 💫
 - Vencord | https://vencord.dev/
 - BetterDiscord | https://betterdiscord.app/
 - Replugged | https://replugged.dev/
-- Vendetta | https://github.com/vendetta-mod/Vendetta
 
 # Open Custom CSS 💨
 ## Vencord
