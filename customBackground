@@ -1,5 +1,6 @@
 @import url('https://raw.githubusercontent.com/contracz/DiscordSnippets/main/hideBackground');
 
+/* Change the imigur link to any image link for a background */
 
 :root {
   background-image: url('https://i.imgur.com/ly34mq9.png') !important;
