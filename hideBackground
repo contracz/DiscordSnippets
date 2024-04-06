@@ -1,36 +1,4 @@
-[class^=app_], /*main app bg*/
-[class^=bg__], /*another bg layer*/
-[class*=guilds_], /*serverlist*/
-[class^=sidebar_], /*channellist*/
-[class^=sidebar_] [class^=container_], /*another layer on channellist*/
-[class^=chat_], /*chat bg*/
-[class^=chatContent_], 
-[class^=chatContent_] + [class^=container_], 
-[class^=chat_] [class^=wrapper_],
-[class*=gradientContainer_],
-[class^=channelChatWrapper_], 
-[class^=chatTarget_],
-[class^=channelChatWrapper_] [class^=resizeHandle_], 
-[class^=channelChatWrapper_] [class^=container_], 
-[class^=members_],
-[class^=member_], 
-[class^=title_],
-[class^=panels_], 
-[class^=channelTextArea_], 
-[class^=channelTextArea_] [class^=scrollableContainer_], 
-[class^=chatContent_] > form::before,
-[data-list-id="chat-messages"] > [class^=wrapper_], 
-[data-list-id="chat-messages"] > [class^=wrapper_] > [class^=wrapper_], 
-[class^=privateChannels_], 
-[class^=privateChannels_] [class^=scroller_], 
-[class*=userProfileOuterUnthemed_], 
-[class*=userProfileOuterUnthemed_] [class^=userPanelInner_],
-[class^=sidebar_] + [class^=container_],
-[class^=sidebar_] + [class^=container_] > section, 
-[class^=nowPlayingColumn_], 
-[class^=nowPlayingColumn_] > [class^=container_],
-[class^=shop_], 
-[class^=shop_] > section, 
-[class^=shopScroll_], 
-[class^=pageWrapper_] 
- { background: none !important; }
+:root
+ { --background-primary: transparent;
+   --background-secondary: transparent;
+   --background-tertiary: transparent; }
