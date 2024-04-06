@@ -1,13 +1,24 @@
 :root {
- --background-primary: transparent;
- --background-secondary: transparent;
- --background-tertiary: transparent; 
-}
+  --background-primary: transparent;
+  --background-secondary: transparent;
+  --background-tertiary: transparent; 
 
-.form_d8a4a1 { 
- display: none;
-}
+  .themedBackground__3a4c0 { 
+    display: inline-block;
+    max-width: calc(100% - 5px);
+    background: rgba(0, 0, 0, 0.274) !important;
+    border-radius: 16px !important;
+    backdrop-filter: blur(20px); 
+    width: 1200px;
+    margin-top: 20px;
+  }
 
-.channelAttachmentArea__5e46a.scrollbarGhost__299c1.scrollbar_b61b2b {
- display: none;
+  .contentColumn__5f80b.contentColumnDefault__78de3 {
+    display: inline-block;
+    max-width: calc(100% - 5px);
+    background: rgba(0, 0, 0, 0.274) !important;
+    border-radius: 16px !important;
+    backdrop-filter: blur(20px); 
+    margin-bottom: 10px;
+  }
 }
